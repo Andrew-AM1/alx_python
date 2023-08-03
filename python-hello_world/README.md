@@ -1,24 +1,18 @@
-# Title
+# Python- Hello, World
 
-## Subtitle
+## Requirements
 
-- List item 1
-- List item 2
-- List item 3
+### Python Scripts
 
-This is a paragraph of text. You can format it in **bold**, *italic*, or `code` using Markdown syntax.
+- Recommended editors: Visual studio code
+- files interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
+- All your files should end with a new line
+- The length of your files will be tested using wc
 
-### Section
-
-1. Ordered item 1
-2. Ordered item 2
-3. Ordered item 3
 
 #### Subsection
 
 > Blockquote: Here's some quoted text.
-
-![Image](image.jpg)
 
 [Link](https://www.example.com)
 
